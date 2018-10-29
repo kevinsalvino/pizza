@@ -1,75 +1,75 @@
-1,CHEESE - 10 inches,double layer of mozzarella,1,10,175
-2,CHEESE - 14 inches,double layer of mozzarella,1,14,285
-3,CHEESE   - 18 inches,double layer of mozzarella,1,18,440
-4,NY Classic  - 10 inches,pepperoni,1,10,210
-5,NY Classic - 14 inches,pepperoni,1,14,340
-6,NY Classic   - 18 inches,pepperoni,1,18,530
-7,PEPPERONI & MUSHROOM - 10 inches,pepperoni & button mushrooms,1,10,220
-8,PEPPERONI & MUSHROOM - 14 inches,pepperoni & button mushrooms,1,14,250
-9,PEPPERONI & MUSHROOM  - 18 inches,pepperoni & button mushrooms,1,18,540
-10,MANHATTAN MEATLOVERS - 10 inches,"ham, pepperoni, Italian sausage, ground beef, salami, & bacon",1,10,250
-11,MANHATTAN MEATLOVERS - 14 inches,"ham, pepperoni, Italian sausage, ground beef, salami, & bacon",1,14,295
-12,MANHATTAN MEATLOVERS  - 18 inches,"ham, pepperoni, Italian sausage, ground beef, salami, & bacon",1,18,565
-13,GARDEN SPECIAL - 10 inches,"fresh tomatoes, black olives, mushrooms, onions, red & green bell peppers",1,10,210
-14,GARDEN SPECIAL - 14 inches,"fresh tomatoes, black olives, mushrooms, onions, red & green bell peppers",1,14,340
-15,GARDEN SPECIAL  - 18 inches,"fresh tomatoes, black olives, mushrooms, onions, red & green bell peppers",1,18,530
-16,HAWAIIAN - 10 inches,"ham, pineapple & bacon",1,10,210
-17,HAWAIIAN - 14 inches,"ham, pineapple & bacon",1,14,340
-18,HAWAIIAN  - 18 inches,"ham, pineapple & bacon",1,18,530
-19,NEW YORK'S FINEST - 10 inches,"Italian sausae, haml, pepperoni, bacon, ground beef, black olives, mushroom, onions, red & green bell peppers",1,10,260
-20,NEW YORK'S FINEST - 14 inches,"Italian sausae, haml, pepperoni, bacon, ground beef, black olives, mushroom, onions, red & green bell peppers",1,14,420
-21,NEW YORK'S FINEST  - 18 inches,"Italian sausae, haml, pepperoni, bacon, ground beef, black olives, mushroom, onions, red & green bell peppers",1,18,575
-22,TRIBECA MUSHROOM - 10 inches,"shiitake, button & oyster mushroom",2,10,245
-23,TRIBECA MUSHROOM - 14 inches,"shiitake, button & oyster mushroom",2,14,390
-24,TRIBECA MUSHROOM  - 18 inches,"shiitake, button & oyster mushroom",2,18,560
-25,ANCHOVY LOVERS - 10 inches,"black olives, anchovies, capers, roaster garlic, mushrooms & onions",2,10,275
-26,ANCHOVY LOVERS - 14 inches,"black olives, anchovies, capers, roaster garlic, mushrooms & onions",2,14,450
-27,ANCHOVY LOVERS  - 18 inches,"black olives, anchovies, capers, roaster garlic, mushrooms & onions",2,18,595
-28,#4 CHEESE - 10 inches,"cheese heaven! mozzarella, cheddar, fontina & feta",2,10,250
-29,#4 CHEESE - 14 inches,"cheese heaven! mozzarella, cheddar, fontina & feta",2,14,400
-30,#4 CHEESE  - 18 inches,"cheese heaven! mozzarella, cheddar, fontina & feta",2,18,560
-31,CORONA CHICKEN  - 10 inches,tangy strips of chicken with Southwestern salsa,2,10,250
-32,CORONA CHICKEN - 14 inches,tangy strips of chicken with Southwestern salsa,2,14,420
-33,CORONA CHICKEN  - 18 inches,tangy strips of chicken with Southwestern salsa,2,18,575
-34,GOURMET GARDEN  - 10 inches,"zucchini, grilled eggplant, fresh tomatoes, black olives, capers, mushrooms, onions, red & green bell peppers",2,10,250
-35,GOURMET GARDEN - 14 inches,"zucchini, grilled eggplant, fresh tomatoes, black olives, capers, mushrooms, onions, red & green bell peppers",2,14,410
-36,GOURMET GARDEN  - 18 inches,"zucchini, grilled eggplant, fresh tomatoes, black olives, capers, mushrooms, onions, red & green bell peppers",2,18,585
-37,ROASTED GARLIC  - 10 inches,"shrimp, onions, roasted garlic in wine-butter sauce",2,10,240
-38,ROASTED GARLIC - 14 inches,"shrimp, onions, roasted garlic in wine-butter sauce",2,14,405
-39,ROASTED GARLIC  - 18 inches,"shrimp, onions, roasted garlic in wine-butter sauce",2,18,505
-40,FOUR SEASONS  - 10 inches,"gourmet sampler: NY Classic, #4 Cheese, Anchovy lovers, Roasted Garlic & Shrimp",2,10,275
-41,FOUR SEASONS - 14 inches,"gourmet sampler: NY Classic, #4 Cheese, Anchovy lovers, Roasted Garlic & Shrimp",2,14,430
-42,FOUR SEASONS  - 18 inches,"gourmet sampler: NY Classic, #4 Cheese, Anchovy lovers, Roasted Garlic & Shrimp",2,18,590
-43,CHEESE - 10 inches,,3,10,35
-44,CHEESE - 14 inches,,3,14,45
-45,CHEESE  - 18 inches,,3,18,60
-46,BACON  - 10 inches,,3,10,35
-47,BACON - 14 inches,,3,14,45
-48,BACON  - 18 inches,,3,18,60
-49,GROUND BEEF  - 10 inches,,3,10,35
-50,GROUND BEEF - 14 inches,,3,14,45
-51,GROUND BEEF  - 18 inches,,3,18,60
-52,HAM  - 10 inches,,3,10,35
-53,HAM - 14 inches,,3,14,45
-54,HAM  - 18 inches,,3,18,60
-55,ITALIAN SAUSAGE  - 10 inches,,3,10,35
-56,ITALIAN SAUSAGE - 14 inches,,3,14,45
-57,ITALIAN SAUSAGE  - 18 inches,,3,18,60
-58,PEPPERONI  - 10 inches,,3,10,35
-59,PEPPERONI - 14 inches,,3,14,45
-60,PEPPERONI  - 18 inches,,3,18,60
-61,SALAMI  - 10 inches,,3,10,35
-62,SALAMI - 14 inches,,3,14,45
-63,SALAMI  - 18 inches,,3,18,60
-64,CAPERS  - 10 inches,,3,10,35
-65,CAPERS - 14 inches,,3,14,45
-66,CAPERS  - 18 inches,,3,18,60
-67,ROASTED GARLIC  - 10 inches,,3,10,35
-68,ROASTED GARLIC - 14 inches,,3,14,45
-69,ROASTED GARLIC  - 18 inches,,3,18,60
-70,BELL PEPPER  - 10 inches,,3,10,35
-71,BELL PEPPER - 14 inches,,3,14,45
-72,BELL PEPPER  - 18 inches,,3,18,60
-73,MUSHROOMS  - 10 inches,,3,10,35
-74,MUSHROOMS - 14 inches,,3,14,45
-75,MUSHROOMS  - 18 inches,,3,18,60
+1,CHEESE,double layer of mozzarella,1,10,175
+2,CHEESE,double layer of mozzarella,1,14,285
+3,CHEESE,double layer of mozzarella,1,18,440
+4,NY Classic,pepperoni,1,10,210
+5,NY Classic,pepperoni,1,14,340
+6,NY Classic,pepperoni,1,18,530
+7,PEPPERONI & MUSHROOM,pepperoni & button mushrooms,1,10,220
+8,PEPPERONI & MUSHROOM,pepperoni & button mushrooms,1,14,250
+9,PEPPERONI & MUSHROOM,pepperoni & button mushrooms,1,18,540
+10,MANHATTAN MEATLOVERS,"ham, pepperoni, Italian sausage, ground beef, salami, & bacon",1,10,250
+11,MANHATTAN MEATLOVERS,"ham, pepperoni, Italian sausage, ground beef, salami, & bacon",1,14,295
+12,MANHATTAN MEATLOVERS,"ham, pepperoni, Italian sausage, ground beef, salami, & bacon",1,18,565
+13,GARDEN SPECIAL,"fresh tomatoes, black olives, mushrooms, onions, red & green bell peppers",1,10,210
+14,GARDEN SPECIAL,"fresh tomatoes, black olives, mushrooms, onions, red & green bell peppers",1,14,340
+15,GARDEN SPECIAL,"fresh tomatoes, black olives, mushrooms, onions, red & green bell peppers",1,18,530
+16,HAWAIIAN,"ham, pineapple & bacon",1,10,210
+17,HAWAIIAN,"ham, pineapple & bacon",1,14,340
+18,HAWAIIAN,"ham, pineapple & bacon",1,18,530
+19,NEW YORK'S FINEST,"Italian sausae, haml, pepperoni, bacon, ground beef, black olives, mushroom, onions, red & green bell peppers",1,10,260
+20,NEW YORK'S FINEST,"Italian sausae, haml, pepperoni, bacon, ground beef, black olives, mushroom, onions, red & green bell peppers",1,14,420
+21,NEW YORK'S FINEST ,"Italian sausae, haml, pepperoni, bacon, ground beef, black olives, mushroom, onions, red & green bell peppers",1,18,575
+22,TRIBECA MUSHROOM,"shiitake, button & oyster mushroom",2,10,245
+23,TRIBECA MUSHROOM,"shiitake, button & oyster mushroom",2,14,390
+24,TRIBECA MUSHROOM,"shiitake, button & oyster mushroom",2,18,560
+25,ANCHOVY LOVERS,"black olives, anchovies, capers, roaster garlic, mushrooms & onions",2,10,275
+26,ANCHOVY LOVERS,"black olives, anchovies, capers, roaster garlic, mushrooms & onions",2,14,450
+27,ANCHOVY LOVERS,"black olives, anchovies, capers, roaster garlic, mushrooms & onions",2,18,595
+28,#4 CHEESE,"cheese heaven! mozzarella, cheddar, fontina & feta",2,10,250
+29,#4 CHEESE,"cheese heaven! mozzarella, cheddar, fontina & feta",2,14,400
+30,#4 CHEESE,"cheese heaven! mozzarella, cheddar, fontina & feta",2,18,560
+31,CORONA CHICKEN,tangy strips of chicken with Southwestern salsa,2,10,250
+32,CORONA CHICKEN,tangy strips of chicken with Southwestern salsa,2,14,420
+33,CORONA CHICKEN,tangy strips of chicken with Southwestern salsa,2,18,575
+34,GOURMET GARDEN,"zucchini, grilled eggplant, fresh tomatoes, black olives, capers, mushrooms, onions, red & green bell peppers",2,10,250
+35,GOURMET GARDEN,"zucchini, grilled eggplant, fresh tomatoes, black olives, capers, mushrooms, onions, red & green bell peppers",2,14,410
+36,GOURMET GARDEN,"zucchini, grilled eggplant, fresh tomatoes, black olives, capers, mushrooms, onions, red & green bell peppers",2,18,585
+37,ROASTED GARLIC,"shrimp, onions, roasted garlic in wine-butter sauce",2,10,240
+38,ROASTED GARLIC,"shrimp, onions, roasted garlic in wine-butter sauce",2,14,405
+39,ROASTED GARLIC ,"shrimp, onions, roasted garlic in wine-butter sauce",2,18,505
+40,FOUR SEASONS,"gourmet sampler: NY Classic, #4 Cheese, Anchovy lovers, Roasted Garlic & Shrimp",2,10,275
+41,FOUR SEASONS,"gourmet sampler: NY Classic, #4 Cheese, Anchovy lovers, Roasted Garlic & Shrimp",2,14,430
+42,FOUR SEASONS,"gourmet sampler: NY Classic, #4 Cheese, Anchovy lovers, Roasted Garlic & Shrimp",2,18,590
+43,CHEESE,,3,10,35
+44,CHEESE,,3,14,45
+45,CHEESE,,3,18,60
+46,BACON,,3,10,35
+47,BACON,,3,14,45
+48,BACON,,3,18,60
+49,GROUND BEEF,,3,10,35
+50,GROUND BEEF,,3,14,45
+51,GROUND BEEF,,3,18,60
+52,HAM,,3,10,35
+53,HAM,,3,14,45
+54,HAM,,3,18,60
+55,ITALIAN SAUSAGE,,3,10,35
+56,ITALIAN SAUSAGE,,3,14,45
+57,ITALIAN SAUSAGE,,3,18,60
+58,PEPPERONI,,3,10,35
+59,PEPPERONI,,3,14,45
+60,PEPPERONI,,3,18,60
+61,SALAMI,,3,10,35
+62,SALAMI,,3,14,45
+63,SALAMI,,3,18,60
+64,CAPERS,,3,10,35
+65,CAPERS,,3,14,45
+66,CAPERS,,3,18,60
+67,ROASTED GARLIC,,3,10,35
+68,ROASTED GARLIC,,3,14,45
+69,ROASTED GARLIC,,3,18,60
+70,BELL PEPPER,,3,10,35
+71,BELL PEPPER,,3,14,45
+72,BELL PEPPER,,3,18,60
+73,MUSHROOMS,,3,10,35
+74,MUSHROOMS,,3,14,45
+75,MUSHROOMS,,3,18,60
