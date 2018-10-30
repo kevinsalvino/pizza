@@ -1,6 +1,6 @@
 <?php
 	function getTitle() {
-		echo "Yellow Cab - Pizza Co. ";
+		echo "Yellow Cab - Pizza Co.";
 	}
 
 	include "partials/head.php";
