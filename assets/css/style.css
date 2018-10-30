@@ -1,3 +1,6 @@
+/************************/
+/*     Landing-Page     */
+/************************/
 main#index_page {
 	background-color: #090e12;
 	margin: 0;
@@ -54,6 +57,7 @@ p.header-subtitle {
 	text-shadow: 2px 2px 3px black;
 	animation: scalex 1s ease-out 2.25s forwards;
 	opacity: 0;
+	text-align: center;
 }
 
 button.header-button {
@@ -64,6 +68,7 @@ button.header-button {
 	opacity: 0;
 	animation: swoosh .25S linear 3.75s forwards;
 	transform: scale(1.5,1.5);
+	text-align: center;
 }
 
 img.header-logo {
@@ -127,18 +132,18 @@ img.header-logo {
 	}
 }
 
-
-
-/*******************/
-main#catalog_bg {
-	height:100%;
+/************************/
+/*     Catalog Page     */
+/************************/
+div.catalog-bg {
+	height: 100%;
 	width: 100%;
 	background: url(../img/bg_pizza2.jpg) no-repeat center;
 	background-size: cover;
 	background-attachment: fixed;
 }
 
-header#catalog-header_bg {
+div.catalog-header-bg {
 	height: 125px;
 	width: 100%;
 	background: url(../img/bg_sky.jpg) no-repeat top; 
@@ -155,52 +160,6 @@ img#header-logo {
 	transform: rotate(-10deg);
 }
 
-nav {
-	border: 1px solid black;
-	height: 130px;
-	width: 100%;
-	background-color: lightgrey;
-}
-
-p.total_price_title {
-	color: green;
-	text-transform: uppercase;
-	font-weight: bold;
-	position: absolute;
-	right: 135px;
-	top: 140px;
-	z-index: 1;
-	font-size: 20px;
-}
-
-div.total_price_box {
-	height: 50px;
-	width: 400px;
-	transform: translate(710px,40px);
-	background-color: white;
-}
-
-span.total_price {
-	font-size: 40px;
-	font-weight: bolder;
-	position: absolute;
-	right: 0;
-}
-
-p.total_price_cap {
-	position: absolute;
-	right: 135px;
-	top: 215px;
-	font-weight: bold;
-}
-
-button.checkout_btn {
-	position: absolute;
-	font-size: 20px;
-	transform: translateX(570px);
-	text-transform: uppercase;
-}
-
 span#header-caption,
 span#header-caption2 {
 	position: absolute;
@@ -213,14 +172,62 @@ span#header-caption2 {
 
 span#header-caption {
 	top: 15px;
-	right: 220px;
+	right: 110px;
 	font-size: 35px;
 }
 
 span#header-caption2 {
 	top: 40px;
 	font-size: 50px;
-	right: 130px;
+	right: 60px;
+}
+
+div.nav-total-price {
+	border: 1px solid black;
+	height: 100px;
+	width: 100%;
+	background-color: lightgrey;
+}
+
+p.total_price_title {
+	color: green;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: right;
+	position: absolute;
+	right: 30px;
+}
+
+div.total_price_box {
+	height: 50px;
+	width: 400px;
+	background-color: white;
+	text-align: right;
+	position: absolute;
+	right: 30px;
+	top: 25px;
+}
+
+span.total_price {
+	font-size: 40px;
+	font-weight: bolder;
+}
+
+p.total_price_cap {
+	text-align: right;
+	font-weight: bold;
+	position: absolute;
+	right: 30px;
+	bottom: -5px;
+}
+
+button.checkout_btn {
+	position: absolute;
+	font-size: 20px;
+	text-transform: uppercase;
+	right: 430px;
+	top: 30px;
 }
 
 table, th, td {
@@ -243,9 +250,7 @@ tr, td, th {
 
 table {
 	width: 100%;
-	margin-top: -50px;
 	margin-bottom: 50px;
-
 }
 
 .prod_head {
@@ -275,21 +280,150 @@ input[type = "button"] {
 	border: 1px solid #094d09;
 }
 
-/*****************************************/
-/*****************************************/
+tr.first_row th {
+	padding-top: 10px;
+}
+
+
+/*************************/
+/*     MEDIA QUERIES     */
+/*************************/
 @media only screen and (max-width: 360px) {
+	/*     Landing Page     */
 	p.header-subtitle {
 		font-size: 15vw;
-		transform: translateY(-3rem);
-		background-color: rgba(0,0,0,0.5);
+	}
+
+	button.header-button {
+		font-size: 5vh;
 	}
 
 	img.header-logo {
-		height: 15vh;
+		height: 10vh;
 	}
 	
 	header:after {
 		-moz-transform: rotateZ(-13deg);
 		transform: rotateZ(-13deg);
 	}
+	/*     Catalog Page     */
+	div.catalog-header-bg {
+		height: 50px;
+	}
+
+	img#header-logo {
+		height: 55px;
+		width: 100px;
+		padding-left: 0;
+		padding-top: 0;
+	}
+
+	span#header-caption {
+		top: 5px;
+		right: 15px;
+		font-size: 15px;
+	}
+
+	span#header-caption2 {
+		top: 20px;
+		font-size: 20px;
+		right: 10px;
+	}
+
+	div.nav-total-price {
+		height: 60px;
+	}
+
+	p.total_price_title {
+		font-size: 10px;
+		right: 15px;
+	}
+
+	div.total_price_box {
+		height: 25px;
+		width: 120px;
+		right: 15px;
+		top: 15px;
+	}
+
+	span.total_price {
+		font-size: 20px;
+	}
+
+	p.total_price_cap {
+		font-size: 8px;
+		right: 15px;
+	}
+
+	button.checkout_btn {
+		left: 70px;
+		top: 20px;
+		height: 20px;
+		font-size: 10px;
+		width: 80px;
+		padding: 0;
+	}
+
+}
+
+@media only screen and (min-width: 361px) and (max-width: 767px) {
+	/*     Catalog Page     */
+	div.catalog-header-bg {
+		height: 50px;
+	}
+
+	img#header-logo {
+		height: 55px;
+		width: 100px;
+		padding-left: 0;
+		padding-top: 0;
+	}
+
+	span#header-caption {
+		top: 5px;
+		right: 30px;
+		font-size: 15px;
+	}
+
+	span#header-caption2 {
+		top: 20px;
+		font-size: 20px;
+		right: 20px;
+	}
+
+	div.total_price_box {
+		width: 170px;
+	}
+
+	button.checkout_btn {
+		right: 200px;
+		height: 35px;
+		font-size: 15px;
+		padding: 2px;
+	}
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+	/*     Landing Page     */
+	p.header-subtitle {
+		font-size: 8vw;
+	}
+
+	img.header-logo {
+		height: 10vh;
+	}
+	/*     Catalog Page     */
+	span#header-caption {
+		top: 15px;
+		right: 50px;
+	}
+
+	span#header-caption2 {
+		top: 45px;
+		right: 20px;
+	}
+}
+
+@media only screen and (min-width: 1025px) {
+
 }
